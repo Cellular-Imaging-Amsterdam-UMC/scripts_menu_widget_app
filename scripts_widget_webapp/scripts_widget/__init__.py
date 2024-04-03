@@ -1,0 +1,1 @@
+default_app_config = 'scripts_widget_webapp.apps.ParadeAppConfig'
